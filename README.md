@@ -1,5 +1,7 @@
 # Code of Conduct
 
+This is the Code of Conduct for :sparkles: http://www.covalenceconf.com :sparkles:, a conference about building apps with JavaScript and Electron.
+
 ## When Something Happens
 
 If you see a Code of Conduct violation, follow these steps:
